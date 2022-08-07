@@ -1,1 +1,54 @@
 /* Write your CSS here! */
+body {
+    background-color: aliceblue;
+    color: steelblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+}
+
+p {
+    padding-left: 60px;
+    padding-right: 220px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  img {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+  }
+
+  h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-right: 500px;
+  }
+
+  nav {
+    font-size: 20px;
+  }
+
+  #intro {
+    font-weight: 500;
+    padding-left: 80px;
+  }
+
+  .language {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 90px;
+  }
+
+  footer {
+    text-align: right;
+    font-size: x-small;
+  }
