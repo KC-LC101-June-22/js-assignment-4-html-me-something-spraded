@@ -1,7 +1,10 @@
 /* Write your CSS here! */
 body {
     background-color: aliceblue;
-    color: steelgitblue;
+    color: steelblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 8px;
+    display: block;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-right: 150px;
@@ -50,4 +53,15 @@ p {
   footer {
     text-align: right;
     font-size: x-small;
+  }
+
+  #mainHeading {
+    color: red;
+    font-size: xx-small;
+  }
+
+  .funParagraph {
+    color: green;
+    text-align: center;
+    font-size: xx-small;
   }
